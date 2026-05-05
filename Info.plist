@@ -1,0 +1,9 @@
+<key>DynamicCodeSigning</key>
+<true/>
+<key>GCSupportedGameControllers</key>
+<array>
+    <dict>
+        <key>ProfileName</key>
+        <string>ExtendedGamepad</string>
+    </dict>
+</array>
